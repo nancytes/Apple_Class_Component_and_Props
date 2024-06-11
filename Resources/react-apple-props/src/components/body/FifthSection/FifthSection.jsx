@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
-import applelogo from '../../commonResource/images/icons/apple-tv-logo.png'
-import banker from '../../commonResource/images/home/banker.png'
-import watch from '../../commonResource/images/icons/watch-series5-logo.png'
+import applelogo from '../../../commonResource/images/icons/apple-tv-logo.png'
+import banker from '../../../commonResource/images/home/banker.png'
+import watch from '../../../commonResource/images/icons/watch-series5-logo.png'
 
 
 export default class FifthSection extends Component {

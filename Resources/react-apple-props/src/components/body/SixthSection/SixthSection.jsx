@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import arcade from '../../commonResource/images/icons/arcade.png'
+import arcade from '../../../commonResource/images/icons/arcade.png'
 
 export default class SixthSection extends Component {
   render() {
